@@ -1,3 +1,3 @@
 # Euler
 
-My JS based solutions for [Project Euler](http://projecteuler.net/).
+My JS based solutions for [Project Euler](http://projecteuler.net/)
